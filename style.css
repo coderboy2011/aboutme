@@ -6,7 +6,7 @@
 	box-sizing:border-box;
 	font-family:'Poppins', sans-serif;
 	text-decoration:none;
-	scroll-behaviour:smooth;
+	scroll-behavior:smooth;
 }
 
 body{
@@ -258,7 +258,7 @@ section .title span{
 	font-size: 30px;
 	font-weight: 600;
 	position: relative;
-	pdding-bottom: 8px;
+	padding-bottom: 8px;
 }
 
 section .title span::before,
@@ -514,7 +514,7 @@ section .button button:hover{
 .contact-btn {
 	width:100%;
 	padding:12px;
-	background-coor:blue;
+	background-color:blue;
 	border:none;
 	color:white;
 	font-size:18px;
@@ -582,7 +582,7 @@ footer .text span a:hover{
 @media (max-width:1000px){
 	.about .about-details{
 		justify-content:center;
-		flex-direcion:column;
+		flex-direction:column;
 	}
 	.about .about-details .left{
 		display:flex;
